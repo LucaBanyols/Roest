@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ee52db5c0decc74dacdc7bb3e50ff1f, type: 3}
+  m_Name: Sword
+  m_EditorClassIdentifier: 
+  id: 4
+  prefab: {fileID: 1756171109746913027, guid: 9563a2a983f9b044195fa7ffe5825c4a, type: 3}
+  image: {fileID: 7282261048951168707, guid: 94313b23cc23633428083e2ac27440c1, type: 3}
+  uiDisplay: {fileID: 1014495251, guid: 994f6056a7e80b743a87c2ae58974423, type: 3}
+  type: 0
+  description: 
+  AttackBonus: 50
+  DefenceBonus: 0
+  inHandPosition: {x: -0.076, y: -0.041, z: -0.064}
+  inHandRotation: {x: -60.47, y: -69.691, z: 69.018}

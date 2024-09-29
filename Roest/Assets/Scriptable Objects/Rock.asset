@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ee52db5c0decc74dacdc7bb3e50ff1f, type: 3}
+  m_Name: Rock
+  m_EditorClassIdentifier: 
+  id: 5
+  prefab: {fileID: 161057188863064850, guid: b09af4c839ea4e548b1280d25201fff4, type: 3}
+  image: {fileID: 0}
+  uiDisplay: {fileID: 21300000, guid: 13ba34da9011744c884f459ce4699444, type: 3}
+  type: 0
+  description: 
+  AttackBonus: 0
+  DefenceBonus: 0
+  inHandPosition: {x: 0, y: 0, z: 0}
+  inHandRotation: {x: 0, y: 0, z: 0}

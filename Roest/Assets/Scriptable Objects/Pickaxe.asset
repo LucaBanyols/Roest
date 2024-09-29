@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ee52db5c0decc74dacdc7bb3e50ff1f, type: 3}
+  m_Name: Pickaxe
+  m_EditorClassIdentifier: 
+  id: 3
+  prefab: {fileID: 1209511220747632935, guid: 3127d7e733ebd7a499cb9184dd942f73, type: 3}
+  image: {fileID: 7282261048951168707, guid: 60479a59b450cbd4597aa0e5a937bc23, type: 3}
+  uiDisplay: {fileID: -1825542142, guid: 9e62b75f5e0684a4583bcea9181c3632, type: 3}
+  type: 0
+  description: 
+  AttackBonus: 10
+  DefenceBonus: 0
+  inHandPosition: {x: -0.179, y: 0.185, z: -0.075}
+  inHandRotation: {x: -70.104, y: 971.794, z: 253.23}
